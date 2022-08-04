@@ -1,0 +1,5 @@
+project = "Sniper"
+file = "sniper.lua"
+dir = "docs"
+title = "Sniper documentation"
+description = "Scope management and error handling in pure Lua"
